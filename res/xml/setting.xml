@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+        <PreferenceCategory>
+            <EditTextPreference android:defaultValue="192.168.51.1" android:key="ServerUrl" android:title="修改IP地址"/>
+            <EditTextPreference android:defaultValue="2011" android:key="ServerPort" android:title="修改端口号"/>        </PreferenceCategory>
+    </PreferenceScreen>
