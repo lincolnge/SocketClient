@@ -5,4 +5,5 @@
     <string name="hello_world">Hello world!</string>
     <string name="connect">Connect</string>
     <string name="desc">desc</string>
+    <string name="exit">exit</string>
 </resources>
